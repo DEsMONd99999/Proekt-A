@@ -1,31 +1,31 @@
-Видение задачи заказчиком
+п»їVision problems the customer
 
-Заказчик (vision):
-Создание информационного сайта, позволяющего привлечь новых участников и ознакомить их с информацией о предстоящей туртропе.
+Customer (vision):
+Creating an information site, allowing to attract new members and to familiarize them with information about the upcoming turtrope.
 
-Потенциальный источник прибыли: 
-Плата за вход на мероприятие (увеличение количества участников путем распространения информации о мероприятии).
-
-
-Роли
-
-Роль: Посетители
-
-Задача: Получить информацию о Туртропе 2016
-
-Роль: Администраторы
-
-Задача: Поддержка системы для посетителей, редктирование устаревшей информации.
+A potential source of profit:
+Admission to the event (the increase in the number of participants by disseminating information about the event).
 
 
-Истории
+Role
 
-№1
+Role: Visitors
 
-Как пользователь я могу ознакомиться с информацией о Туртропе 2016, правилами проведения, контактами, 
-ознакомиться с информацией о компании, прочесть раздел "Часто задаваемых вопросов", ознакомиться с конкурсом и призами. 
-Подписаться на услугу смс-рассылки, поделиться ссылкой на сайт в социальных сетях, осуществить поиск по странице.
+Objective: Get Turtrope 2016
 
-№2
+Role: Administrators
 
-Как администратор я могу редактировать информацию о мероприятии, так чтобы она оставалась корректной.
+Objective: Support system for visitors, editing obsolete information.
+
+
+Stories
+
+в„–1
+
+As a user I find information about Turtrope 2016 of rules, contacts,
+view information about the company, read the section "Frequently asked questions", to familiarize with the competition and prizes.
+Subscribe to SMS-mailing service, share the link to your website in social networks, to search for the page.
+
+в„–2
+
+As an administrator, I can edit information about the event, so that it remains correct.
